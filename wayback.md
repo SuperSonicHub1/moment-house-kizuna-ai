@@ -12,7 +12,7 @@ Some sad truths about archiving these pages:
 
 #### [Instagram](https://www.instagram.com/a.i.channel_official/)
 <!-- [Left Image](https://user-images.githubusercontent.com/25624882/112911473-8176c880-90c3-11eb-8885-cd338d1511cd.png) -->
-> Note to self: use Instaloader (https://github.com/instaloader/instaloader) or InstaUp ()
+> Note to self: follow advice of the AT to save the posts (https://wiki.archiveteam.org/index.php/Instagram)
 
 ##### Homepage (3/29/2021)
 ![Kizuna AI's Instagram homepage](https://user-images.githubusercontent.com/25624882/112913530-d0266180-90c7-11eb-950c-a1dfd2aff002.png)
@@ -114,7 +114,7 @@ to homepage for some reason)
 https://web.archive.org/web/20210404220406/https://www.twitch.tv/nyanners/videos (broken)
 
 ##### Announcement Highlight
-> Note to self: use https://github.com/Franiac/TwitchLeecher to download highlight
+> Note to self: follow advice of AT to archive the highlight (https://wiki.archiveteam.org/index.php/Twitch.tv)
 Sadly, full stream isn't available. Darn shame, since it was a fun stream, too. Would be real
 nice if Twitch kept the original video up along with the highlight.
 
