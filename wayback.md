@@ -132,9 +132,7 @@ https://web.archive.org/web/20210404222547/https://www.momenthouse.com/ (broken)
 ### Kizuna AI Virtual US Tour 2021
 
 #### Homepage
-https://archive.is/o4xTz
-
-https://web.archive.org/web/20210404222547/https://www.momenthouse.com/ (broken)
+https://archive.ph/1Bum2
 
 #### Tour Bundle
 
