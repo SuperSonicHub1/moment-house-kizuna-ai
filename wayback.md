@@ -1,7 +1,10 @@
 # Internet Archives
 
 Some sad truths about archiving these pages:
-* Instagram doesn't like having its pages archived by the Wayback Machine or Archive.is; it will redirect all requests to their login page, so I'll be using full-page screenshots and Instagram archivers instead.
+* Instagram doesn't like having its pages archived by the Wayback Machine or Archive.is; it will 
+  redirect all requests to their login page, so I'll be using full-page screenshots and Instagram
+  archivers instead.
+* Twitch hates having its pages saved, so that's a shame. 
 
 ## Social Media
 
@@ -44,7 +47,7 @@ https://web.archive.org/web/20210330001827/https://www.facebook.com/photo/?fbid=
 
 ### TeddyLoid
 
-#### Twitter
+#### [Twitter](https://twitter.com/TeddyLoidSpace)
 
 ##### Homepage
 https://web.archive.org/web/20210330233220/https://twitter.com/TeddyLoidSpace
@@ -57,7 +60,7 @@ https://archive.is/ALdyA
 
 ### VShojo
 
-#### Twitter
+#### [Twitter](https://twitter.com/VShojoOfficial)
 
 ##### Homepage
 https://web.archive.org/web/20210330234318/https://twitter.com/VShojoOfficial
@@ -70,10 +73,77 @@ https://web.archive.org/web/20210330234804/https://twitter.com/VShojoOfficial/st
 
 ### Nyanners
 
-#### Twitter
+#### [Twitter](https://twitter.com/NyanNyanners)
 
 ##### Homepage
 https://web.archive.org/web/20210330235147/https://twitter.com/NyanNyanners
 
 ##### Announcement Stream Announcement
 https://web.archive.org/web/20210330235428/https://twitter.com/NyanNyanners/status/1374451202662928390
+
+#### [YouTube](http://youtube.com/nyanners)
+
+##### Homepage
+https://web.archive.org/web/20210404215125/http://youtube.com/nyanners
+
+##### Announcement Video
+https://web.archive.org/web/20210404215744/https://www.youtube.com/watch?v=dPAhHZXUFfk
+
+##### VODs Homepage
+https://web.archive.org/web/20210404220028/https://www.youtube.com/channel/UCUdQg_xwlt8DcDqU6ID3GsA
+
+##### Announcement Archive
+Sadly, full stream isn't available. Darn shame, since it was a fun stream, too.
+https://web.archive.org/web/20210404220143/https://www.youtube.com/watch?v=OHuY522F5H4
+
+#### [Twitch](https://www.twitch.tv/nyanners/)
+
+##### Homepage
+https://archive.is/JQPf0
+
+https://web.archive.org/web/20210404221029/https://m.twitch.tv/nyanners/profile (mobile, kinda broken)
+
+https://web.archive.org/web/20210404220115/https://www.twitch.tv/nyanners/ (broken)
+
+##### Videos Page
+https://archive.ph/i0Aze
+
+/web/20210404221313/https://m.twitch.tv/nyanners/videos (mobile, kinda broken, identical 
+to homepage for some reason)
+
+https://web.archive.org/web/20210404220406/https://www.twitch.tv/nyanners/videos (broken)
+
+##### Announcement Highlight
+> Note to self: use https://github.com/Franiac/TwitchLeecher to download highlight
+Sadly, full stream isn't available. Darn shame, since it was a fun stream, too. Would be real
+nice if Twitch kept the original video up along with the highlight.
+
+https://archive.ph/tSpx9
+
+https://web.archive.org/web/20210404221531/https://www.twitch.tv/videos/961405847 (broken)
+
+## Moment House
+
+### Homepage
+https://archive.is/o4xTz
+
+https://web.archive.org/web/20210404222547/https://www.momenthouse.com/ (broken)
+
+### Kizuna AI Virtual US Tour 2021
+
+#### Homepage
+https://archive.is/o4xTz
+
+https://web.archive.org/web/20210404222547/https://www.momenthouse.com/ (broken)
+
+#### Tour Bundle
+
+https://archive.ph/dq1vd
+
+#### DAY1 - LA Theme
+
+https://archive.ph/90joM
+
+#### DAY2 - NY Theme
+
+https://archive.ph/SIg4Y
