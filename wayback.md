@@ -108,7 +108,7 @@ https://web.archive.org/web/20210404220115/https://www.twitch.tv/nyanners/ (brok
 ##### Videos Page
 https://archive.ph/i0Aze
 
-/web/20210404221313/https://m.twitch.tv/nyanners/videos (mobile, kinda broken, identical 
+https://web.archive.org/web/20210404221313/https://m.twitch.tv/nyanners/videos (mobile, kinda broken, identical 
 to homepage for some reason)
 
 https://web.archive.org/web/20210404220406/https://www.twitch.tv/nyanners/videos (broken)
